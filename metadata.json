@@ -1,0 +1,6 @@
+{
+  "name": "SuperLista - Supermercado Argentina",
+  "description": "Lista de compras clara y simple con catálogo de precios promedio 2026 de la Provincia de Buenos Aires, artículos personalizados y descargable para Windows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
